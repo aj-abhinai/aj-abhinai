@@ -23,13 +23,13 @@ A small academic utility to generate Miller’s Pyramid for educational use.
 ### 🗓️ Weekly Heatmap (Obsidian Plugin)  
 A lightweight Obsidian plugin to visualize weekly tasks using a heatmap.  
 **Use case:** Habit tracking & productivity
-
+🌐 https://github.com/aj-abhinai/weekly-heatmap/releases
 ---
 
 ### 📦 All Projects
 A central listing of my experiments, tools, and side projects.  
 🔗 https://inverted-dodo.github.io
-🌐 https://github.com/aj-abhinai/weekly-heatmap/releases
+
 ---
 
 ## 🌱 What I’m Currently Learning
