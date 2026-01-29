@@ -1,7 +1,7 @@
 # Hi, I’m Abhinai 👋
 
-I’m a **healthcare practitioner** who enjoys building simple, useful tools.  
-Outside work, I’m into **photography**, learning **coding & web development**, and doing a bit of *vibe coding* when curiosity strikes.
+I’m a **healthcare practitioner** who enjoys building simple, practical tools.  
+Outside work, I’m into **photography**, learning **coding & web development**, and occasional *vibe coding* driven by curiosity.
 
 ---
 
@@ -14,20 +14,21 @@ A simple tool to create and manage medical case files and prescriptions offline.
 
 ---
 
+### 🗓️ Weekly Heatmap (Obsidian Plugin)  
+A lightweight Obsidian plugin to visualize weekly tasks using a heatmap.  
+**Use case:** Habit tracking & productivity  
+🔗 https://github.com/aj-abhinai/weekly-heatmap/releases
+
+---
+
 ### 📚 Miller’s Pyramid Generator  
-A small academic utility to generate Miller’s Pyramid for educational use.  
+A small academic utility for generating Miller’s Pyramid for educational purposes.  
 🌐 https://academic-tools.pages.dev/
 
 ---
 
-### 🗓️ Weekly Heatmap (Obsidian Plugin)  
-A lightweight Obsidian plugin to visualize weekly tasks using a heatmap.  
-**Use case:** Habit tracking & productivity
-🌐 https://github.com/aj-abhinai/weekly-heatmap/releases
----
-
 ### 📦 All Projects
-A central listing of my experiments, tools, and side projects.  
+A central place listing my experiments, tools, and side projects.  
 🔗 https://inverted-dodo.github.io
 
 ---
@@ -35,7 +36,7 @@ A central listing of my experiments, tools, and side projects.
 ## 🌱 What I’m Currently Learning
 - Python  
 - AI & applied use cases  
-- Anything that genuinely interests me 😉  
+- Anything that genuinely interests me 😉
 
 ---
 
