@@ -1,7 +1,6 @@
 # Hi, I’m Abhinai 👋
 
 I’m a **healthcare practitioner** who enjoys building simple, practical tools.  
-Outside work, I’m into **photography**, learning **coding & web development**, and occasional *vibe coding* driven by curiosity.
 
 ---
 
