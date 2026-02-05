@@ -39,6 +39,7 @@ A central place listing my experiments, tools, and side projects.
 ## 🌿 My Digital Garden
 Notes, ideas, experiments, and half-baked thoughts.  
 🌐 https://aj-abhinai.github.io
+
 ---
 ## 🤝 Connect With Me
 - LinkedIn: https://linkedin.com/in/ajabhinai  
