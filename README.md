@@ -1,4 +1,4 @@
-# Hi, I’m Abhinai 👋
+# Hi, I’m [Abhinai](https://abhinai.pages.dev/) 👋
 
 I’m a **healthcare practitioner** who enjoys building simple, practical tools.  
 
