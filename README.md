@@ -33,7 +33,9 @@ A central place listing my experiments, tools, and side projects.
 ---
 ## 🌱 What I’m Currently Learning 
 - Anything that genuinely interests me 😉
-- Python  
+- Go
+- postgress
+- vue.js
 - AI & applied use cases 
 ---
 ## 🌿 My Digital Garden
